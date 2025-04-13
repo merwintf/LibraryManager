@@ -1,0 +1,84 @@
+﻿# .NET Core
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.csproj.user
+*.sln.docstates
+*.pdb
+*.dbmdl
+*.aps
+*.bak
+*.cache
+*.ilk
+*.log
+*.sbr
+*.scc
+*.tlb
+*.tlh
+*.tli
+*.resources
+*.res
+*.meta
+*.ipch
+*.lastbuildstate
+*.tlog
+*.metaproj
+*.metaproj.tmp
+*.csproj.Migrated*
+*.csproj.FileListAbsolute.txt
+*.csproj.FileList.txt
+*.csproj.CoreCompileInputs.cache
+*.csprojAssemblyReference.cache
+*.csproj.GenerateResource.Cache
+*.csproj.CopyComplete
+*.csproj.BuildRequestData
+*.csproj.BuildOutputData
+*.csproj.MSBuildOutputData
+*.csproj.PublishOutputData
+*.csprojResolveReferences.cache
+*.csprojResolveAssemblyReference.cache
+*.csprojCompile.cache
+*.csprojDesignTimeAssemblyReferences.cache
+*.csprojDesignTimeResolveAssemblyReferences.cache
+*.csprojBrowseObject.cache
+*.csprojLinkedResources.cache
+*.csprojLinkedResourcesResolve.cache
+*.csprojLinkedResourcesDesignTime.cache
+*.csprojLinkedResourcesDesignTimeResolve.cache
+*.csprojLinkedResourcesBrowseObject.cache
+*.csprojLinkedResourcesResolveAssemblyReferences.cache
+*.csprojLinkedResourcesDesignTimeResolveAssemblyReferences.cache
+*.csprojLinkedResourcesBrowseObjectResolveAssemblyReferences.cache
+*.csprojLinkedResourcesDesignTimeResolveAssemblyReferencesBrowseObject.cache
+*.csprojLinkedResourcesDesignTimeResolveAssemblyReferencesBrowseObjectResolveAssemblyReferences.cache
+*.csprojLinkedResourcesDesignTimeResolveAssemblyReferencesBrowseObjectResolveAssemblyReferencesResolveAssemblyReferences.cache
+
+# Visual Studio
+.vscode/
+.idea/
+*.sln.iml
+
+# NuGet Packages
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# User-specific files
+*.userprefs
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Docker
+docker-compose.override.yml
+
+# Secrets
+appsettings.Development.json
+*.secrets
